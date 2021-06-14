@@ -1,0 +1,8 @@
+adj = input("Enter the adjective:")
+verb1 = input("Enter the verb:")
+verb2 = input("Enter the verb:")
+fam_per = input("Enter the famous person:")
+
+madlib= f"Computer programming is so {adj} and I love it because i love {verb1} & {verb2} with {fam_per} "
+
+print(madlib)
